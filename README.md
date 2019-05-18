@@ -58,4 +58,6 @@ python2 demo.py
  - The provided RPN model is tiny version of full "YOLOv2" detector (= demo runs at 7 fps on 1GB Nvidia GPU) 
  - For decoding final output, we provide just greedy and dictionary based prefix decoding
  
+## 李剑备注:
+- https://www.cnblogs.com/lillylin/p/8495278.html 【论文翻译】2017一站式的Deep TextSpotter
  
